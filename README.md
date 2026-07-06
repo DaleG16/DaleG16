@@ -1,30 +1,47 @@
 <h1 align="center">Hi 👋, I'm Dale Chris</h1>
 <h3 align="center">AIML Engineering Student | Learning AI, Deep Learning & Computer Vision</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daleg16" alt="daleg16" /></a> </p>
+<p align="left">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://github-profile-trophy.vercel.app/?username=DaleG16" alt="DaleG16" />
+</a>
+</p>
 
-- 🌱 I’m currently learning **DSA in Java, Computer Vision, Deep Learning, PyTorch**
-
-- 👯 I’m looking to collaborate on **Open Source AI/ML & Computer Vision Projects**
-
-- 🤝 I’m looking for help with **Deep Learning, Computer Vision & Model Deployment**
-
+- 🌱 I'm currently learning **DSA in Java, Computer Vision, Deep Learning, PyTorch**
+- 👯 I'm looking to collaborate on **Open Source AI/ML & Computer Vision Projects**
+- 🤝 I'm looking for help with **Deep Learning, Computer Vision & Model Deployment**
 - 💬 Ask me about **Java, Python, Digital Image Processing, NLP, AI/ML**
-
-- 📫 How to reach me **dalemenezes2005@gmail.com**
-
-- ⚡ Fun fact **I enjoy building AI projects that solve real-world problems.**
+- 📫 How to reach me: **dalemenezes2005@gmail.com**
+- ⚡ Fun fact: **I enjoy building AI projects that solve real-world problems.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dale-chris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dale-chris" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dale-chris" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dale-chris" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+<p align="left">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daleg16&show_icons=true&locale=en&layout=compact" alt="daleg16" /></p>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DaleG16&show_icons=true&locale=en&layout=compact" alt="DaleG16" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daleg16&show_icons=true&locale=en" alt="daleg16" /></p>
+<p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DaleG16&show_icons=true&locale=en" alt="DaleG16" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daleg16&" alt="daleg16" /></p>
+<p>
+<img align="center" src="https://streak-stats.demolab.com?user=DaleG16" alt="DaleG16" />
+</p>
