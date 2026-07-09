@@ -45,5 +45,4 @@
 
 
 
-<!-- Streak stats still use demolab.com which is working perfectly -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=DaleG16)](https://github.com/DaleG16)
+[![Dale's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DaleG16&theme=github-compact)](https://github.com/DaleG16)
