@@ -40,11 +40,17 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 </p>
 
-<h3 align="left">My GitHub Stats:</h3>
-
-<!-- Using an alternative community-hosted domain because the main vercel.app instance is currently paused -->
-[![Top Langs](https://github-readme-stats.shion.dev/api/top-langs?username=DaleG16&show_icons=true&locale=en&layout=compact)](https://github.com/DaleG16)
+<h3 align="center">My GitHub Stats:</h3>
 
 
+<p align="center">
+  <a href="https://github.com/DaleG16">
+    <img src="https://github-readme-stats.shion.dev/api/top-langs?username=DaleG16&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" height="165" />
+  </a>
+  <a href="https://github.com/DaleG16">
+    <img src="https://streak-stats.demolab.com/?user=DaleG16&theme=dark" alt="GitHub Streak" height="165" />
+  </a>
+</p>
 
-[![Dale's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DaleG16&theme=github-compact)](https://github.com/DaleG16)
+
+
